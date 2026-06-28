@@ -7,7 +7,7 @@ Para jogá-lo, clique na imagem abaixo.
 
 
 <p align="center">
-  <a href="[https://link-destino.com](https://danielgomesmachado.github.io/voa_voa_aviao/)" target="_blank">
-    <img src="c[aminho/da/imagem.png](https://github.com/danielgomesmachado/Game-Voa-Voa-Aviao/blob/main/thumb_voavoa.png)" alt="Clique para jogar!" width="350">
+  <a href="https://danielgomesmachado.github.io/voa_voa_aviao/" target="_blank">
+    <img src="https://github.com/danielgomesmachado/Game-Voa-Voa-Aviao/blob/main/thumb_voavoa.png" alt="Clique para jogar!" width="350">
   </a>
 </p>
